@@ -17,7 +17,8 @@ To run this web application, you need to have the following dependencies install
 
 You can install the Python dependencies using pip:
 
-```bash
+
+
 pip install flask numpy tensorflow
 
 Getting Started
